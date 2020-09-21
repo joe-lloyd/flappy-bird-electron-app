@@ -25,7 +25,7 @@
     "typescript": "^3.9.7"
   },
   "dependencies": {
-    "@joe-lloyd/flappy-bird-phaser": "^1.1.11",
+    "@joe-lloyd/flappy-bird-phaser": "^1.1.12",
     "@types/node": "12.12.6"
   }
 }
